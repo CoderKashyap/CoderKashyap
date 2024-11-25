@@ -2,11 +2,11 @@
 <h3 align="center">A proficient MERN stack developer from India</h3>
 
 
-- 🔭 I’m currently working on [Gropto](https://www.gropto.com)
+- 🔭 I’m currently working on [Bunnx](https://www.bunnx.com)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently using **Next.js**
 
-- 👯 Recently i completed [Eqipped](https://www.eqipped.in)
+- 👯 Recently i completed [Gropto](https://www.gropto.com)
 
 - 💬 Feel free to inquire about **Node.js, Express, React.js, JavaScript, MongoDB, Aws**
 

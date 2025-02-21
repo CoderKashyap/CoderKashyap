@@ -8,7 +8,7 @@
 
 - 👯 Recently i completed [Gropto](https://www.gropto.com)
 
-- 💬 Feel free to inquire about **Node.js, Express, React.js, JavaScript, MongoDB, Aws**
+- 💬 Feel free to inquire about **Node.js, Express, Next.js, React.js, JavaScript, MongoDB, Aws**
 
 - 📫 How to reach me **kashyap.abhi1105@gmail.com**
 

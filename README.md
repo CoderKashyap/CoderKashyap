@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kashyap</h1>
-<h3 align="center">A proficient MERN stack developer from India</h3>
+<h3 align="center">A proficient Full Stack Developer from India</h3>
 
 
 - 🔭 I’m currently working on [WeoneAi](https://www.weoneai.com), [Bunnx](https://www.bunnx.com) & [AnnualEsg](https://www.annualesg.com)

@@ -2,13 +2,13 @@
 <h3 align="center">A proficient MERN stack developer from India</h3>
 
 
-- 🔭 I’m currently working on [Bunnx](https://www.bunnx.com)
+- 🔭 I’m currently working on [WeoneAi](https://www.weoneai.com), [Bunnx](https://www.bunnx.com)
 
-- 🌱 I’m currently using **Next.js**
+- 🌱 I’m currently using **Next.js, Node.js, N8n**
 
 - 👯 Recently i completed [Gropto](https://www.gropto.com)
 
-- 💬 Feel free to inquire about **Node.js, Express, Next.js, React.js, JavaScript, MongoDB, Aws**
+- 💬 Feel free to inquire about **Node.js, Express, Next.js, React.js, JavaScript, MongoDB, PostgreSql, Aws**
 
 - 📫 How to reach me **kashyap.abhi1105@gmail.com**
 

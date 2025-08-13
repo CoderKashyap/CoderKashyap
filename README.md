@@ -43,9 +43,6 @@ MERN-based eCommerce and investment platform with secure admin dashboard.
 **DevOps & Tools:** AWS, Docker, Git, Postman, N8n  
 
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek1105&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek1105&layout=compact&theme=tokyonight)
-
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)

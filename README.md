@@ -13,7 +13,6 @@ AI-powered business solutions website featuring intelligent tools like document 
 - Voice agent with real-time transcription on calls
 - Multiple chatbots for different business automation needs
 
----
 
 ### [Bunnx](https://www.bunnx.com)
 Corporate website for a CRM & marketing automation service.  
@@ -24,7 +23,6 @@ Corporate website for a CRM & marketing automation service.
 - SEO-focused structure for better ranking
 - Lead capture form integrated with backend
 
----
 
 ### [Gropto](https://www.gropto.com)
 MERN-based eCommerce and investment platform with secure admin dashboard.  
@@ -36,6 +34,7 @@ MERN-based eCommerce and investment platform with secure admin dashboard.
 - Order and content management features
 
 
+## Core Skills
 
 **Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js  
 **Backend:** Node.js, Express.js, Nginx  
@@ -44,15 +43,11 @@ MERN-based eCommerce and investment platform with secure admin dashboard.
 
 
 
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
-![Email](https://img.shields.io/badge/Email-kashyap.abhi1105%40gmail.com-red)
-
-
-
 📬 **Reach Me At:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbhishekKashyap-blue)](https://linkedin.com/in/coralabhi)  
-📧 kashyap.abhi1105@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbhishekKashyap-blue)](https://linkedin.com/in/coralabhi)
+[![Email](https://img.shields.io/badge/Email-kashyap.abhi1105%40gmail.com-red)](mailto:kashyap.abhi1105@gmail.com)
+
+
 
 
 

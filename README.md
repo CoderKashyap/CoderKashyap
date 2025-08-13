@@ -2,17 +2,61 @@
 <h3 align="center">Full Stack Developer | MERN & Next.js Specialist | API Integrations & Automation</h3>
 
 
-- 🔭 I’m currently working on [WeoneAi](https://www.weoneai.com), [Bunnx](https://www.bunnx.com) & [AnnualEsg](https://www.annualesg.com)
+## Featured Projects
 
-- 🌱 I’m currently using **Next.js, Node.js & N8n**
+### [WeoneAI](https://www.weoneai.com)
+AI-powered business solutions website featuring intelligent tools like document readers, Q&A agents, and live transcription during calls.  
+**My Role:** Frontend development, AI API integration, chatbot workflows with N8n.  
+**Tech Stack:** Next.js, Node.js, N8n, OpenAI API, Tailwind CSS  
+**Highlights:**
+- Document reader that answers questions from uploaded files
+- Voice agent with real-time transcription on calls
+- Multiple chatbots for different business automation needs
 
-- 👯 Recently i completed [Gropto](https://www.gropto.com)
+---
 
-- 💬 Feel free to inquire about **Node.js, Express, Next.js, React.js, JavaScript, MongoDB, PostgreSql, Aws**
+### [Bunnx](https://www.bunnx.com)
+Corporate website for a CRM & marketing automation service.  
+**My Role:** Designed & developed a responsive, SEO-optimized site; integrated lead forms with backend APIs.  
+**Tech Stack:** Next.js, Tailwind CSS, Node.js  
+**Highlights:**
+- Fully responsive design for all devices
+- SEO-focused structure for better ranking
+- Lead capture form integrated with backend
 
-- 📫 How to reach me **kashyap.abhi1105@gmail.com**
+---
 
-- ⚡ Fun fact **I love codes**
+### [Gropto](https://www.gropto.com)
+MERN-based eCommerce and investment platform with secure admin dashboard.  
+**My Role:** Full-stack development — built admin panel, authentication, and payment modules.  
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux, JWT  
+**Highlights:**
+- Secure authentication with JWT
+- Admin dashboard for product and investment management
+- Order and content management features
+
+
+
+**Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js  
+**Backend:** Node.js, Express.js, Nginx  
+**Database:** MongoDB, PostgreSQL  
+**DevOps & Tools:** AWS, Docker, Git, Postman, N8n  
+
+
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek1105&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek1105&layout=compact&theme=tokyonight)
+
+
+![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
+![Email](https://img.shields.io/badge/Email-kashyap.abhi1105%40gmail.com-red)
+
+
+
+📬 **Reach Me At:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbhishekKashyap-blue)](https://linkedin.com/in/coralabhi)  
+📧 kashyap.abhi1105@gmail.com  
+
 
 
 <h3 align="left">Languages and Tools:</h3>

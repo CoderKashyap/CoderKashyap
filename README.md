@@ -5,19 +5,19 @@
 ## Featured Projects
 
 ### [WeoneAI](https://www.weoneai.com)
-AI-powered business solutions website featuring intelligent tools like document readers, Q&A agents, and live transcription during calls.  
-**My Role:** Frontend development, AI API integration, chatbot workflows with N8n.  
-**Tech Stack:** Next.js, Node.js, N8n, OpenAI API, Tailwind CSS  
+AI-powered business solutions platform showcasing intelligent tools like demo chatbots, real-time call transcription, and document readers. Offers WhatsApp marketing & custom task automation services.  
+**My Role:** Full stack development, OpenAI API integration, chatbot workflows with N8n.  
+**Tech Stack:** Next.js, N8n, OpenAI API, Tailwind CSS & Razorpay
 **Highlights:**
 - Document reader that answers questions from uploaded files
 - Voice agent with real-time transcription on calls
 - Multiple chatbots for different business automation needs
 
 
-### [Bunnx](https://www.bunnx.com)
-Corporate website for a CRM & marketing automation service.  
+### [Bunnx](https://www.bunnx.com) 
+A professional software development website built in Next.js and integrated with Strapi Headless CMS for dynamic content management.
 **My Role:** Designed & developed a responsive, SEO-optimized site; integrated lead forms with backend APIs.  
-**Tech Stack:** Next.js, Tailwind CSS, Node.js  
+**Tech Stack:** Next.js, RTK Query, MongoDb, NextAuth, Tailwind CSS & Strapi.  
 **Highlights:**
 - Fully responsive design for all devices
 - SEO-focused structure for better ranking
@@ -25,9 +25,9 @@ Corporate website for a CRM & marketing automation service.
 
 
 ### [Gropto](https://www.gropto.com)
-MERN-based eCommerce and investment platform with secure admin dashboard.  
-**My Role:** Full-stack development — built admin panel, authentication, and payment modules.  
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux, JWT  
+MERN-based eCommerce platform with a secure admin dashboard, offering a seamless shopping experience.
+**My Role:** Full-stack development — implemented order management, cart and checkout system, user authentication, payment integration, and admin panel functionality.
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux & JWT  
 **Highlights:**
 - Secure authentication with JWT
 - Admin dashboard for product and investment management
@@ -36,10 +36,13 @@ MERN-based eCommerce and investment platform with secure admin dashboard.
 
 ## Core Skills
 
-**Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js  
-**Backend:** Node.js, Express.js, Nginx  
-**Database:** MongoDB, PostgreSQL  
-**DevOps & Tools:** AWS, Docker, Git, Postman, N8n  
+**Frontend:** Next.js, TanStack, React.js, Redux, Tailwind CSS, HTML, CSS, JS & TS  
+**Backend:** Node.js, Express.js, REST API, JWT, Socket.io & Nginx  
+**Database:** MongoDB, MySQL  
+**DevOps & Cloud:**  AWS EC2, Git, GitHub, CI/CD Pipelines (GitHub Actions)
+**Automation & CRM Integrations:** n8n workflow automations, Salesforce, GoHighLevel,
+Zoho CRM, WebSockets (real-time leads), OpenAI, Algolia
+
 
 
 

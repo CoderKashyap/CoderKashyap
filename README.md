@@ -7,7 +7,7 @@
 ### [WeoneAI](https://www.weoneai.com)
 AI-powered business solutions platform showcasing intelligent tools like demo chatbots, real-time call transcription, and document readers. Offers WhatsApp marketing & custom task automation services.  
 **My Role:** Full stack development, OpenAI API integration, chatbot workflows with N8n.  
-**Tech Stack:** Next.js, N8n, OpenAI API, Tailwind CSS & Razorpay
+**Tech Stack:** Next.js, N8n, OpenAI API, Tailwind CSS & Razorpay.
 **Highlights:**
 - Document reader that answers questions from uploaded files
 - Voice agent with real-time transcription on calls
@@ -27,7 +27,7 @@ A professional software development website built in Next.js and integrated with
 ### [Gropto](https://www.gropto.com)
 MERN-based eCommerce platform with a secure admin dashboard, offering a seamless shopping experience.
 **My Role:** Full-stack development — implemented order management, cart and checkout system, user authentication, payment integration, and admin panel functionality.
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux & JWT  
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux & JWT.  
 **Highlights:**
 - Secure authentication with JWT
 - Admin dashboard for product and investment management

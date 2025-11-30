@@ -8,6 +8,7 @@
 AI-powered business solutions platform showcasing intelligent tools like demo chatbots, real-time call transcription, and document readers. Offers WhatsApp marketing & custom task automation services.  
 **My Role:** Full stack development, OpenAI API integration, chatbot workflows with N8n.  
 **Tech Stack:** Next.js, N8n, OpenAI API, Tailwind CSS & Razorpay.
+
 **Highlights:**
 - Document reader that answers questions from uploaded files
 - Voice agent with real-time transcription on calls

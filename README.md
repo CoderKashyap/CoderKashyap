@@ -27,7 +27,7 @@ A professional software development website built in Next.js and integrated with
 
 ### [Gropto](https://www.gropto.com)
 MERN-based eCommerce platform with a secure admin dashboard, offering a seamless shopping experience.
-**My Role:** Full-stack development — implemented order management, cart and checkout system, user authentication, payment integration, and admin panel functionality.
+**My Role:** Full-stack development implemented order management, cart and checkout system, user authentication, payment integration, and admin panel functionality.
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux & JWT.  
 **Highlights:**
 - Secure authentication with JWT
